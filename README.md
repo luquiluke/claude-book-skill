@@ -116,6 +116,7 @@ Books/<your-book>/
 | File | What's in it |
 |---|---|
 | [docs/Slater-Consulting-book-Skill-Guide.pdf](docs/Slater-Consulting-book-Skill-Guide.pdf) | **The user guide (PDF)** — friendly walkthrough for non-technical writers |
+| [docs/Slater-Consulting-book-Skill-Guia-ES.pdf](docs/Slater-Consulting-book-Skill-Guia-ES.pdf) | **Guía de uso en español (PDF)** — rioplatense, voseando de punta a punta |
 | [SKILL.md](SKILL.md) | The orchestrator: pipeline, gates, modes, non-negotiables |
 | [references/agent-briefs.md](references/agent-briefs.md) | The six agents' full briefs |
 | [references/writing-rules.md](references/writing-rules.md) | The anti-AI catalog and pre-flight checklist |
