@@ -66,6 +66,13 @@ here are my old blog posts — learn my style      (or point it at Drive/Notion/
 write chapter 1
 ```
 
+### Also runs on OpenAI Codex CLI and ChatGPT
+
+SKILL.md is an [open cross-tool standard](https://developers.openai.com/codex/skills), so the studio ports beyond Claude Code:
+
+- **Codex CLI** (also Gemini CLI / Copilot / Cursor): same skill, Codex-adapted orchestrator — agents run as isolated `codex exec` children. Two-command install in [ports/codex/INSTALL.md](ports/codex/INSTALL.md).
+- **ChatGPT**: a Custom GPT ("Book Studio") with the full six-role pipeline, book-as-zip persistence, and Word compile via Code Interpreter. Build it in ~10 minutes with [ports/chatgpt/SETUP.md](ports/chatgpt/SETUP.md).
+
 ## Talking to it
 
 No commands required — "let's work on my book", "that doesn't sound like me", "give me the Word file" all route correctly. Shortcuts exist if you like them:
